@@ -47,10 +47,53 @@ alehavi@usc.edu}}
 This outlines Adam Lehavi's notes related to his research with Yoonsoo Nam.
 \end{abstract}
 
-\section{Literature Review}
-\subsection{Paper 1}
-This is what it would look like to cite the example reference \cite{alon2016probabilistic}.
+\section{Working Model Idea}
+Take a video, use \cite{4604096} to turn the video into key frames, use image summarization as surveyed in \cite{bernardi2016automatic} to generate image summaries, and use an NLP model to turn a series of image summaries to a description.
 
+\section{Core Definitions and Acronyms}
+\begin{itemize}
+    \item 
+\end{itemize}
+
+\section{Literature Review}
+\subsection{Survey of Techniques for Labeling Video, Audio, and Text Data}
+
+Past approaches to video data:
+\begin{enumerate}
+    \item Automatically annotate news videos through unsupervised learning using mining of similar videos. For a given video with a speech-recognized transcript, it first searches and ranks most similar videos and then mines those.
+    \item Automatically annotate of people passing surveillance cameras, annotating clothing color, height, and focus of attention.
+    \item Use TREC video retrieval evaluation.
+    \item Address the problem of automatic temporal annotation of realistic human actions in video.
+    \item Use an optimal graph (OGL) from multicues (partial tags and multiple features) to get results superior to other state-of-the-art methods.
+    \item Propose Interactive Self-Annotation framework, based on recurrent self-supervised learning.
+    \item State a recursive and semi-automatic annotation approach which proposes initial annotations for all frames in a video based on segmenting only a few manual objects.
+    \item Use Multiple Annotation Maturation (MAM)
+    \item Propose a novel Correlative Multi-Labe (CML) framework which simultaneously classifies concepts and models correlations in a single step on the TRECVID dataset
+\end{enumerate}
+\cite{DBLP:journals/corr/abs-2109-03784}
+
+Note a lot of the papers are from the ACM international conference on Multimedia.
+
+\subsection{Video Summarization Based on ML}
+Process to summarize a video in terms of some smaller amount of frames/images \cite{4604096}
+
+\subsection{Survey for Automatic Description Generation from Images}
+Datasets
+\begin{itemize}
+    \item Pascal1K
+    \item Flickr8K
+    \item Flickr30K
+    \item MS COCO
+\end{itemize}
+Recommendation is MS COCO, having 164K images each with 5 texts, collected judgements, and partial objects.
+
+To read:
+\begin{enumerate}
+    \item Karpathy and Fei-Fei (2015) MultRetrieval on Flickr8K/30K, COCO measured w/ BLEU, Meteor, CIDEr, mRank, R@k
+    \item Jia et al. (2015) Generation on Flickr8K/30K, COCO measured w/ BLEU, Meteor
+    \item Yagcioglu et al. (2015) VisRetrieval on Flikr8K/30K, COCO measured w/ Human, BLEU, Meteor, CIDEr
+\end{enumerate}
+\cite{bernardi2016automatic}
 \bibliographystyle{IEEEtran}
 \bibliography{IEEEabrv,references}
 
