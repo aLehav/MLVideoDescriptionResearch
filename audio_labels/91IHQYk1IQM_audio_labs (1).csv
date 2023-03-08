@@ -1,0 +1,57 @@
+,0,1,2,3,4
+0,Music,"Violin, fiddle",Musical instrument,Bowed string instrument,Classical music
+1,Music,Musical instrument,Traditional music,Clarinet,Classical music
+2,Music,Bagpipes,Musical instrument,"Wind instrument, woodwind instrument",Speech
+3,Music,Musical instrument,"Violin, fiddle",Traditional music,Carnatic music
+4,Music,Brass instrument,Musical instrument,Trumpet,Clarinet
+5,Music,"Violin, fiddle",Musical instrument,Traditional music,Bowed string instrument
+6,Music,Traditional music,Bagpipes,Musical instrument,Classical music
+7,Music,Musical instrument,"Violin, fiddle",Traditional music,Bagpipes
+8,Music,Brass instrument,Trumpet,Musical instrument,"Violin, fiddle"
+9,Music,Speech,Singing,Crowd,Shout
+10,Music,"Gunshot, gunfire",Artillery fire,Percussion,Wood block
+11,Speech,Music,Silence,Percussion,Drum
+12,Music,Speech,Bass drum,Drum,Cowbell
+13,Music,Speech,Drum,Percussion,Drum kit
+14,Music,Speech,Drum,"Thump, thud",Percussion
+15,Music,Percussion,Drum,Musical instrument,Timpani
+16,Music,Percussion,Drum,Wood block,"Thump, thud"
+17,Music,Drum,Percussion,Speech,Musical instrument
+18,Music,Percussion,Speech,Timpani,Drum
+19,Music,Speech,Silence,Timpani,Percussion
+20,Music,Speech,Silence,Crowd,Musical instrument
+21,Music,Speech,Crowd,Silence,Battle cry
+22,Music,Choir,Speech,Singing,Musical instrument
+23,Music,"Thump, thud",Speech,Musical instrument,Orchestra
+24,Music,Speech,Crowd,Musical instrument,Orchestra
+25,Music,Speech,Crowd,Cheering,"Inside, public space"
+26,Music,Speech,Crowd,Cheering,Children shouting
+27,Music,Speech,Crowd,Orchestra,Steelpan
+28,Music,Speech,Crowd,Cheering,Silence
+29,Music,Speech,Crowd,Cheering,Children shouting
+30,Speech,Music,Silence,Crowd,"Chewing, mastication"
+31,Music,Speech,Silence,Musical instrument,Percussion
+32,Music,Speech,Silence,Scissors,Vehicle
+33,Music,Speech,Percussion,Silence,"Thump, thud"
+34,Music,Speech,Percussion,Silence,Musical instrument
+35,Music,Speech,Timpani,Percussion,Musical instrument
+36,Music,Timpani,Speech,Drum,Musical instrument
+37,Music,Speech,Musical instrument,Drum,Timpani
+38,Music,Percussion,Speech,Drum,Wood block
+39,Music,Percussion,Drum,Musical instrument,Speech
+40,Music,Silence,Musical instrument,Percussion,Drum
+41,Music,Speech,Percussion,"Thump, thud",Drum
+42,Music,Speech,Musical instrument,Orchestra,Timpani
+43,Music,Speech,Musical instrument,Silence,Bagpipes
+44,Music,Orchestra,Classical music,Percussion,Musical instrument
+45,Music,Orchestra,Classical music,Musical instrument,Brass instrument
+46,Music,Speech,Silence,Crowd,Musical instrument
+47,Speech,Slosh,Water,Silence,Waterfall
+48,Speech,Silence,Vehicle,"Boat, Water vehicle",Music
+49,Speech,Vehicle,Mechanical fan,Silence,Music
+50,Vehicle,"Boat, Water vehicle","Motorboat, speedboat",Mechanical fan,Speech
+51,Vehicle,Train,Rail transport,Speech,"Railroad car, train wagon"
+52,Speech,Music,Vehicle,Animal,Silence
+53,Music,Vehicle,Speech,Car,"Gunshot, gunfire"
+54,Music,Vehicle,Speech,Car,"Gunshot, gunfire"
+55,Speech,Music,Vehicle,Silence,Car

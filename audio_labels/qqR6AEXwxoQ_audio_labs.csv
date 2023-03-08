@@ -1,0 +1,136 @@
+,0,1,2,3,4
+0,Speech,Vehicle,Car,Music,"Outside, rural or natural"
+1,Speech,Music,Vehicle,"Gunshot, gunfire",Musical instrument
+2,Speech,Music,Vehicle,Car,"Gunshot, gunfire"
+3,Speech,Vehicle,Car,"Outside, urban or manmade",Music
+4,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+5,Speech,Vehicle,Car,Music,"Gunshot, gunfire"
+6,Speech,Vehicle,Music,Car,Fowl
+7,Speech,Vehicle,Car,Fowl,Music
+8,Speech,Tuning fork,Vehicle,Sine wave,Music
+9,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+10,Speech,Vehicle,Music,Car,"Outside, urban or manmade"
+11,Speech,Vehicle,Music,Fowl,"Gunshot, gunfire"
+12,Speech,Music,Vehicle,"Gunshot, gunfire",Fowl
+13,Speech,Vehicle,"Outside, urban or manmade",Car,Animal
+14,Speech,Music,Vehicle,Fowl,Animal
+15,Speech,Vehicle,Car,Music,"Gunshot, gunfire"
+16,Speech,Vehicle,Car,Car passing by,"Outside, urban or manmade"
+17,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+18,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+19,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+20,Speech,Vehicle,Car,"Outside, urban or manmade",Truck
+21,Speech,Vehicle,Car,Music,"Gunshot, gunfire"
+22,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+23,Speech,Vehicle,Car,Fowl,"Outside, rural or natural"
+24,Speech,Fowl,Vehicle,"Gunshot, gunfire","Outside, rural or natural"
+25,Speech,Vehicle,Car,"Outside, urban or manmade","Outside, rural or natural"
+26,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+27,Speech,Artillery fire,Vehicle,"Gunshot, gunfire",Car
+28,Speech,Vehicle,Motorcycle,Car,"Outside, rural or natural"
+29,Speech,Vehicle,Motorcycle,"Outside, rural or natural",Music
+30,Speech,Vehicle,Music,Wind,Animal
+31,Speech,"Gunshot, gunfire",Vehicle,Music,Artillery fire
+32,Speech,Vehicle,"Outside, urban or manmade",Music,Car
+33,Speech,Vehicle,Wind,Wind noise (microphone),Car
+34,Speech,Music,Vehicle,"Outside, urban or manmade","Gunshot, gunfire"
+35,Speech,Vehicle,Music,Car,"Vehicle horn, car horn, honking"
+36,Speech,Vehicle,Music,Car,"Outside, urban or manmade"
+37,Speech,Vehicle,"Outside, urban or manmade",Car,"Outside, rural or natural"
+38,Speech,Vehicle,Car,"Outside, urban or manmade",Music
+39,Speech,Music,Vehicle,Animal,Silence
+40,Speech,Vehicle,"Gunshot, gunfire",Car,Artillery fire
+41,Speech,Vehicle,Car,"Outside, urban or manmade",Car passing by
+42,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+43,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+44,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+45,Speech,Music,Vehicle,Car,Fowl
+46,Speech,Fowl,Vehicle,Turkey,Music
+47,Speech,Fowl,Vehicle,Turkey,"Gunshot, gunfire"
+48,Speech,Vehicle,"Outside, rural or natural",Animal,Silence
+49,Speech,Vehicle,Music,"Gunshot, gunfire",Car
+50,Speech,Vehicle,"Gunshot, gunfire",Artillery fire,Music
+51,Speech,Music,Vehicle,"Gunshot, gunfire",Fowl
+52,Speech,Vehicle,"Gunshot, gunfire",Fowl,"Outside, rural or natural"
+53,Speech,Vehicle,"Outside, rural or natural","Outside, urban or manmade",Animal
+54,Speech,Vehicle,"Gunshot, gunfire","Outside, rural or natural",Car
+55,Speech,Vehicle,Music,"Gunshot, gunfire",Fowl
+56,Speech,Vehicle,Music,"Gunshot, gunfire",Car
+57,Speech,Vehicle,Fowl,Car,"Outside, urban or manmade"
+58,Speech,Music,Fowl,Vehicle,Animal
+59,Speech,Vehicle,Music,"Gunshot, gunfire",Fowl
+60,Speech,Vehicle,"Outside, rural or natural","Gunshot, gunfire",Fowl
+61,Speech,Vehicle,"Gunshot, gunfire",Music,"Outside, rural or natural"
+62,Speech,Fowl,Animal,Vehicle,"Outside, rural or natural"
+63,Speech,Vehicle,"Gunshot, gunfire",Fowl,Music
+64,Speech,Vehicle,Fowl,"Outside, rural or natural",Music
+65,Speech,"Gunshot, gunfire",Fowl,Music,Vehicle
+66,Speech,Vehicle,Fowl,Arrow,"Outside, rural or natural"
+67,Speech,Vehicle,Fowl,"Gunshot, gunfire",Animal
+68,Speech,"Gunshot, gunfire",Vehicle,Music,Fowl
+69,Speech,Vehicle,Fowl,Animal,Music
+70,Speech,Vehicle,Car,"Outside, urban or manmade","Outside, rural or natural"
+71,Speech,Vehicle,Music,Car,"Gunshot, gunfire"
+72,Speech,Vehicle,Car,"Boat, Water vehicle","Outside, rural or natural"
+73,Speech,Vehicle,Motorcycle,Silence,Music
+74,Vehicle,Speech,Motorcycle,Music,"Accelerating, revving, vroom"
+75,Vehicle,Speech,Motorcycle,Silence,Music
+76,Vehicle,Speech,Motorcycle,Music,"Accelerating, revving, vroom"
+77,Vehicle,Speech,Motorcycle,"Accelerating, revving, vroom",Car
+78,Vehicle,Speech,Motorcycle,Silence,Music
+79,Speech,Vehicle,Motorcycle,Music,Silence
+80,Vehicle,Motorcycle,Speech,Clatter,"Accelerating, revving, vroom"
+81,Vehicle,Motorcycle,Clatter,"Accelerating, revving, vroom","Outside, urban or manmade"
+82,Vehicle,Motorcycle,Speech,Silence,"Accelerating, revving, vroom"
+83,Vehicle,Motorcycle,Speech,Silence,Music
+84,Vehicle,Speech,Motorcycle,Silence,Music
+85,Vehicle,Speech,Clatter,"Accelerating, revving, vroom",Motorcycle
+86,Vehicle,Motorcycle,Speech,"Outside, rural or natural",Music
+87,Vehicle,Motorcycle,Lawn mower,"Outside, rural or natural","Outside, urban or manmade"
+88,Vehicle,Motorcycle,Clatter,Whir,Speech
+89,Speech,Vehicle,Car,Music,"Gunshot, gunfire"
+90,Speech,Vehicle,"Boat, Water vehicle","Outside, rural or natural",Fowl
+91,Speech,Vehicle,Music,"Outside, rural or natural",Car
+92,Speech,Vehicle,Music,"Outside, urban or manmade",Sigh
+93,Speech,Vehicle,Wind,Wind noise (microphone),"Outside, rural or natural"
+94,Speech,Vehicle,Music,"Gunshot, gunfire",Fowl
+95,Speech,Vehicle,Fowl,Music,Car
+96,Speech,Vehicle,Car,"Outside, urban or manmade","Outside, rural or natural"
+97,Speech,Vehicle,Music,Car,"Outside, rural or natural"
+98,Speech,Vehicle,"Gunshot, gunfire",Music,Car
+99,Speech,Vehicle,Wind,Wind noise (microphone),"Outside, rural or natural"
+100,Speech,Vehicle,Car,Music,"Outside, urban or manmade"
+101,Speech,Vehicle,Car,Wind,"Boat, Water vehicle"
+102,Speech,Vehicle,Wind noise (microphone),Wind,Music
+103,Speech,Vehicle,Wind noise (microphone),Wind,Music
+104,Speech,Vehicle,Wind,Wind noise (microphone),"Boat, Water vehicle"
+105,Speech,Vehicle,Music,Car,"Gunshot, gunfire"
+106,Speech,Vehicle,"Gunshot, gunfire",Music,Car
+107,Speech,Vehicle,"Gunshot, gunfire",Music,"Outside, rural or natural"
+108,Speech,Vehicle,Wind,Wind noise (microphone),"Outside, rural or natural"
+109,Speech,Vehicle,"Outside, rural or natural","Outside, urban or manmade",Music
+110,Speech,Vehicle,Car,"Outside, urban or manmade","Outside, rural or natural"
+111,Speech,Vehicle,Music,Car,"Outside, rural or natural"
+112,Speech,Vehicle,Music,"Outside, rural or natural",Car
+113,Speech,Vehicle,"Gunshot, gunfire",Car,"Outside, rural or natural"
+114,Speech,Vehicle,"Gunshot, gunfire",Car,Fowl
+115,Speech,Vehicle,"Outside, urban or manmade",Car,Animal
+116,Speech,Vehicle,"Gunshot, gunfire",Artillery fire,"Outside, urban or manmade"
+117,Speech,Vehicle,Wind,Wind noise (microphone),Animal
+118,Speech,Vehicle,Wind,Wind noise (microphone),"Gunshot, gunfire"
+119,Speech,Wind,Vehicle,Wind noise (microphone),"Outside, rural or natural"
+120,Speech,Vehicle,"Gunshot, gunfire",Artillery fire,Car
+121,Speech,Vehicle,"Outside, urban or manmade",Animal,"Gunshot, gunfire"
+122,Speech,Vehicle,Wind,Wind noise (microphone),"Outside, urban or manmade"
+123,Speech,Vehicle,Field recording,"Gunshot, gunfire",Artillery fire
+124,Speech,Vehicle,"Outside, urban or manmade",Fowl,"Gunshot, gunfire"
+125,Speech,Vehicle,Fowl,Animal,"Outside, rural or natural"
+126,Speech,Vehicle,Animal,"Outside, rural or natural","Gunshot, gunfire"
+127,Speech,"Gunshot, gunfire",Vehicle,Music,Fowl
+128,Speech,Vehicle,"Gunshot, gunfire",Wind,"Boat, Water vehicle"
+129,Speech,"Gunshot, gunfire",Vehicle,Fowl,Machine gun
+130,Speech,"Gunshot, gunfire",Vehicle,"Outside, rural or natural",Fowl
+131,Speech,Animal,Horse,Clip-clop,Vehicle
+132,Speech,Vehicle,Wind noise (microphone),Wind,"Boat, Water vehicle"
+133,Speech,"Gunshot, gunfire",Vehicle,Artillery fire,"Outside, rural or natural"
+134,Speech,"Gunshot, gunfire",Vehicle,Machine gun,"Outside, rural or natural"

@@ -1,0 +1,72 @@
+,0,1,2,3,4
+0,Music,"Chink, clink",New-age music,Drum machine,Synthesizer
+1,Music,Ding,Speech,"Chink, clink",Ringtone
+2,Music,Ambient music,New-age music,Speech,Ding
+3,Speech,Music,Ding,"Jingle, tinkle",Clang
+4,Speech,Music,"Female speech, woman speaking",Animal,"Narration, monologue"
+5,Speech,Music,Speech synthesizer,"Female speech, woman speaking","Narration, monologue"
+6,Speech,Music,"Female speech, woman speaking","Narration, monologue","Inside, small room"
+7,Speech,Music,"Female speech, woman speaking","Narration, monologue",Speech synthesizer
+8,Speech,Music,"Female speech, woman speaking",Speech synthesizer,"Narration, monologue"
+9,Speech,Music,Silence,Ding,"Chink, clink"
+10,Speech,Music,Speech synthesizer,Conversation,Ding
+11,Speech,Music,Silence,Plop,"Inside, small room"
+12,Speech,Music,Musical instrument,"Female speech, woman speaking","Narration, monologue"
+13,Music,Speech,"Female speech, woman speaking","Narration, monologue","Inside, small room"
+14,Music,Speech,"Female speech, woman speaking","Narration, monologue",Ding
+15,Speech,Music,Musical instrument,Silence,"Female speech, woman speaking"
+16,Speech,Music,Silence,"Inside, small room",Musical instrument
+17,Music,Speech,"Female speech, woman speaking","Chink, clink",Ding
+18,Music,Speech,"Chink, clink","Inside, small room",Silence
+19,Music,Speech,"Female speech, woman speaking",Musical instrument,"Narration, monologue"
+20,Speech,Music,"Female speech, woman speaking","Narration, monologue",Musical instrument
+21,Music,Speech,"Female speech, woman speaking","Narration, monologue","Inside, small room"
+22,Music,Speech,"Female speech, woman speaking","Narration, monologue",Conversation
+23,Music,Speech,"Female speech, woman speaking","Narration, monologue",Speech synthesizer
+24,Speech,Music,"Female speech, woman speaking",Conversation,"Narration, monologue"
+25,Music,Speech,"Narration, monologue","Female speech, woman speaking",Plop
+26,Speech,Music,Speech synthesizer,"Female speech, woman speaking","Narration, monologue"
+27,Speech,Music,"Female speech, woman speaking","Narration, monologue",Spray
+28,Speech,Music,"Narration, monologue","Female speech, woman speaking","Inside, small room"
+29,Music,Speech,"Female speech, woman speaking","Narration, monologue",Speech synthesizer
+30,Music,Speech,Animal,Silence,Telephone bell ringing
+31,Music,Speech,"Female speech, woman speaking","Narration, monologue",Speech synthesizer
+32,Speech,Music,"Inside, small room",Silence,"Narration, monologue"
+33,Music,Speech,Silence,Musical instrument,"Inside, small room"
+34,Music,Speech,"Female speech, woman speaking","Narration, monologue",Mosquito
+35,Music,Musical instrument,Speech,Ringtone,Background music
+36,Music,Background music,Silence,Theme music,Soundtrack music
+37,Music,Speech,Animal,"Female speech, woman speaking","Narration, monologue"
+38,Speech,Music,"Female speech, woman speaking","Narration, monologue",Conversation
+39,Music,Speech,"Female speech, woman speaking","Narration, monologue",Conversation
+40,Music,Speech,"Female speech, woman speaking","Narration, monologue",Musical instrument
+41,Speech,Music,"Narration, monologue","Female speech, woman speaking",Speech synthesizer
+42,Speech,Music,Speech synthesizer,Musical instrument,"Female speech, woman speaking"
+43,Speech,Music,"Female speech, woman speaking","Narration, monologue",Conversation
+44,Speech,Music,Speech synthesizer,"Female speech, woman speaking","Narration, monologue"
+45,Speech,Music,"Female speech, woman speaking",Conversation,"Narration, monologue"
+46,Music,Speech,Musical instrument,"Dental drill, dentist's drill",Ringtone
+47,Music,Speech,Musical instrument,Ringtone,Animal
+48,Speech,Music,Music for children,"Female speech, woman speaking",Plop
+49,Speech,Music,"Female speech, woman speaking",Ding,"Narration, monologue"
+50,Speech,Music,"Female speech, woman speaking","Narration, monologue",Musical instrument
+51,Speech,Music,Speech synthesizer,"Female speech, woman speaking","Narration, monologue"
+52,Music,Speech,Mosquito,"Fly, housefly","Narration, monologue"
+53,Music,Speech,Music for children,"Female speech, woman speaking","Narration, monologue"
+54,Speech,Music,"Female speech, woman speaking",Speech synthesizer,"Narration, monologue"
+55,Music,Speech,Silence,"Narration, monologue","Female speech, woman speaking"
+56,Music,Speech,"Narration, monologue",Speech synthesizer,"Female speech, woman speaking"
+57,Speech,Music,Speech synthesizer,"Female speech, woman speaking","Narration, monologue"
+58,Music,Speech,"Chink, clink",Musical instrument,Plop
+59,Music,Speech,Speech synthesizer,"Narration, monologue","Female speech, woman speaking"
+60,Music,Speech,Silence,Musical instrument,"Inside, small room"
+61,Music,Speech,Silence,Ding,Musical instrument
+62,Music,Speech,"Female speech, woman speaking","Narration, monologue",Speech synthesizer
+63,Music,Speech,"Female speech, woman speaking","Narration, monologue",Music for children
+64,Music,Speech,Silence,"Chink, clink","Female speech, woman speaking"
+65,Speech,Music,"Female speech, woman speaking","Inside, small room","Narration, monologue"
+66,Speech,Music,"Female speech, woman speaking","Inside, small room",Silence
+67,Music,Ringtone,Speech,Drum machine,Synthesizer
+68,Music,"Chink, clink",Ding,Speech,Ping
+69,Music,Ambient music,New-age music,Speech,Ding
+70,Music,Speech,Ding,Clang,"Jingle, tinkle"
